@@ -45,7 +45,7 @@ alert("I am trying to learn from the Book " + book);
 
 
 // 8. Write a script to display this in browser through JS
-document.writeln("Yah! I can write <b>HTML<b/> content through JavaScript");
+document.writeln("Yah! I can write <b>HTML</b> content through JavaScript");
 
 // 9. Store following string in a variable and show in alert and
 // browser through JS
